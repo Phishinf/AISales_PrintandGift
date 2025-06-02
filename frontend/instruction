@@ -1,0 +1,3 @@
+At the frontend directory PHP website
+
+php -S localhost:8100
