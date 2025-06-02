@@ -1,0 +1,22 @@
+#pip install tokenizers faiss-cpu --prefer-binary
+python-dotenv
+#tokenizers
+flask
+requests
+Pillow
+numpy
+torch
+transformers==4.12.5
+sentence-transformers==2.1.0
+#faiss-cpu==1.7.1  # Use faiss-gpu if you have a compatible GPU
+langchain 
+langchain-openai 
+#token-utils
+python-dotenv 
+#gradio 
+langgraph
+beautifulsoup4 
+sentence-transformers 
+torch 
+transformers 
+
